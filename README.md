@@ -1,2 +1,3 @@
-# profiles-rest-api
-Udemy profiles-rest-api course
+# Profiles REST API
+
+Profiles REST API course code.
